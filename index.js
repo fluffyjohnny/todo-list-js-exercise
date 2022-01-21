@@ -42,4 +42,4 @@ task1.logTaskState(); // Clean Cat Litter has not been completed
 task1.markComplete();
 task1.logTaskState(); // Clean Cat Litter has been completed
 
-// console.log(tasks);
+console.log(tasks);
